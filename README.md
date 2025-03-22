@@ -1,10 +1,10 @@
-ChatGPT Flutter App
+# ChatGPT Flutter App
 
-Introduction
+## Introduction
 
 The ChatGPT Flutter App is a chatbot application built with Flutter that communicates with ChatGPT via the OpenAI API. The app provides a user-friendly interface, supports chatting, saves chat history, and allows users to mark favorite messages.
 
-Features
+## Features
 
 Send and receive messages from ChatGPT.
 
@@ -14,7 +14,7 @@ Refresh conversations anytime.
 
 Intuitive and easy-to-use interface.
 
-Technologies Used
+## Technologies Used
 
 Flutter: Used for cross-platform application development.
 
